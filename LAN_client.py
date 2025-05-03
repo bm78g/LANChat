@@ -1,6 +1,8 @@
 import socket
 import threading
 
+# TODO: Allow users to transfer files and exit program organically
+
 HOST = '0.0.0.0' #Change to server's address
 PORT = 12345
 
